@@ -1,0 +1,77 @@
+body{
+    height: 100vh;
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #29007a;
+    font-family: 'Lobster', cursive;
+    overflow: hidden;
+}
+
+.titles{
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 5px #6d0397;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 4vh;
+    margin-bottom: 0vh;
+}
+
+h1{
+    font-size: 6em;
+    
+}
+
+h2{
+    font-size: 4em;
+    
+}
+
+h3{
+    font-size: 3em;
+}
+
+.button{
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 5px #6d0397;
+    font-size: 3em;
+    text-align: center;
+}
+
+a{
+    color: rgb(255, 242, 0);
+}
+
+.imagem{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50vh;
+    align-items: center;
+}
+
+.foto{
+    transform: rotate(-5deg);
+}
+
+.fotofinal{
+    height: 40vh;
+}
+
+section{
+    text-align: center;
+}
+
+p{
+    font-family: 'Lobster', cursive;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px #6d0397;
+    font-size: 2em;
+    text-align: center;
+}
+
+.barra{
+    width: 300px;
+    height: 25px;
+    margin-top: 5vh;
+}
