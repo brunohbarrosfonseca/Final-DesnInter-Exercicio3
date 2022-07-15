@@ -29,7 +29,7 @@ let viagens = [
     "limiteInferior": 760000
   },
   {
-    "texto": 'Bora para São Gabriel da Cachoeira (AM) inauguarar uma ponte?! No segundo semestre de 2020, Bolsonaro gastou R$ 770 mil na viagem',
+    "texto": 'Bora para São Gabriel da Cachoeira (AM) inaugurar uma ponte?! Bolsonaro gastou R$ 770 mil em 2020',
     "limiteInferior": 770000
   },
   {
@@ -49,7 +49,7 @@ let viagens = [
     "limiteInferior": 1200000
   },
   {
-    "texto": 'Uau! Você pode fazer a viagem mais cara do presidente. Ele passou o Reveillon de 2020 no Guarujá (SP) por R$ 1,36 milhão',
+    "texto": 'Uau! Você pode fazer a viagem mais cara do presidente: reveillon de 2020 no Guarujá (SP) por R$ 1,36 milhão',
     "limiteInferior": 1360000
   }
 ]
